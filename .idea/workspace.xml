@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c12bb6-ec78-4b0d-8712-6739ebbf58d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1crXge9fm4szPdck22ZBzcFLSzh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.GUI" />
+      <module name="UniversityManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
+      <module name="UniversityManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c12bb6-ec78-4b0d-8712-6739ebbf58d9" name="Default Changelist" comment="" />
+      <created>1591287798695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591287798695</updated>
+      <workItem from="1591287802525" duration="7100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591291583837">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1591291583837" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1591332632165">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591332632165" />
+    <state width="1367" height="189" key="GridCell.Tab.0.bottom" timestamp="1591294433748">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591294433748" />
+    <state width="1367" height="189" key="GridCell.Tab.0.center" timestamp="1591294433747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591294433747" />
+    <state width="1367" height="189" key="GridCell.Tab.0.left" timestamp="1591294433747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591294433747" />
+    <state width="1367" height="189" key="GridCell.Tab.0.right" timestamp="1591294433747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591294433747" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1591294321910">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591294321910" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1591417382664">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1591417382664" />
+    <state x="387" y="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591294288675">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="387" y="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1591294288675" />
+  </component>
+</project>
